@@ -1,0 +1,10 @@
+{
+  "cSpell.words": [
+    "clsx",
+    "heroicons",
+    "latin",
+    "styleguide",
+    "tailwindcss"
+  ],
+  "css.lint.unknownAtRules": "ignore"
+}
